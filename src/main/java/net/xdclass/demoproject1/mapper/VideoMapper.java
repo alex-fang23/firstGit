@@ -19,6 +19,7 @@ public class VideoMapper {
         videoMap.put(3,new Video(3,"Spring基础课程","Spring基础课程",30));
         videoMap.put(4,new Video(4,"Spring Boot基础课程","Spring Boot基础课程",40));
         videoMap.put(5,new Video(5,"MySQL基础课程","MySQL基础课程",50));
+
     }
 
     public List<Video> listVideo(){
